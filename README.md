@@ -1,4 +1,4 @@
-![polar7bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar7bear&show_icons=true&theme=swift) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![polar7bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar7bear&show_icons=true&theme=swift) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polar7bear&layout=compact)
 
 
