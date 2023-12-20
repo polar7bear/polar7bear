@@ -1,4 +1,4 @@
-### Hi there 👋
+![polar7bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=polar7bear&show_icons=true&theme=swift)
 
 
 <!--
