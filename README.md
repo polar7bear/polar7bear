@@ -1,16 +1,20 @@
-## Hi there 👋
+## Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:sons19981998@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+    </a>
+</div>
 
-<!--
-**polar7bear/polar7bear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Blog
+<div style="display:flex; flex-direction:row;">
+    <a href="https://colesdevelop.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={colesdevelop})](https://github.com/loosie/github-readme-tistory-card)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+<br>
