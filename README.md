@@ -49,12 +49,5 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)](https://solved.ac/sons1998/)-->
 
-
-<br><br><br>
-### PS
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)](https://solved.ac/sons1998/)
-
-
-<br>
