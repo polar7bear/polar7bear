@@ -8,9 +8,8 @@
     </a>
 </div>
 
-<br><br>
+<br>
 
-### Skills
 #### Language
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,5 +48,12 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
+<br>
+
+<div>
+    <a href="https://solved.ac/sons1998/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998" style="width: 200px; height: 100px;">
+    </a>
+</div>
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)](https://solved.ac/sons1998/)-->
 
