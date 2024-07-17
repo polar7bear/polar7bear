@@ -13,7 +13,7 @@
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={colesdevelop})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech%20Blog)](https://colesdevelop.tistory.com/)
 
 
 </div>
