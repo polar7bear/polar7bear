@@ -13,8 +13,8 @@
 #### Language
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<!--![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
 
 
 
@@ -27,10 +27,10 @@
 ![spring-security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
 
-#### Front-End
+<!--#### Front-End
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)-->
 
 <br>
 
@@ -50,10 +50,10 @@
 
 <br>
 
-<!--<div>
+<div>
     <a href="https://solved.ac/sons1998/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998" style="width: 200px; height: 100px;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998">
     </a>
-</div>-->
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)](https://solved.ac/sons1998/)-->
+</div>
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)](https://solved.ac/sons1998/) -->
 
