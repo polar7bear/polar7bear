@@ -13,8 +13,8 @@
 #### Language
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<!--![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
+![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
@@ -50,10 +50,10 @@
 
 <br>
 
-<div>
+<!--<div>
     <a href="https://solved.ac/sons1998/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998">
     </a>
-</div>
+</div> -->
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)](https://solved.ac/sons1998/) -->
 
