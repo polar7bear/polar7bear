@@ -50,7 +50,6 @@
 
 <br>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=polar7bear/polar7bear)
 <!--<div>
     <a href="https://solved.ac/sons1998/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998">
