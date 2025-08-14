@@ -25,6 +25,8 @@
 ![spring-boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![spring-data-jpa](https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
 ![spring-security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![spring-batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![spring-cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 <!--#### Front-End
