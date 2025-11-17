@@ -1,5 +1,5 @@
 ## Info
-[e-mail](sons19981998@gmail.com)  
+[e-mail](mailto:sons19981998@gmail.com)  
 [blog](https://polar7bear.github.io/)
 <br>
 
