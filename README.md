@@ -1,13 +1,6 @@
 ## Info
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:sons19981998@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-    </a>
-    <a href="https://colesdevelop.tistory.com/">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tech%20Blog" style="width: 87.25px; height: 28px"> 
-    </a>
-</div>
-
+[e-mail](sons19981998@gmail.com)  
+[blog](https://polar7bear.github.io/)
 <br>
 
 #### Language
