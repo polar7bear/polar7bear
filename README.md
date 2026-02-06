@@ -42,11 +42,11 @@
 
 <br>
 
-<div>
+<!--<div>
     <a href="https://solved.ac/sons1998/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998">
     </a>
-</div>
+</div>-->
 
 <!--![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sons1998)-->
 
